@@ -95,14 +95,14 @@ p{
     align-items: center;
 }
 
-.price-plan h3 {
+.price-plan h2 {
     text-align: left;
     font-weight: bold;
     color: #1f2c4e;
     line-height: 24px;
 }
 
-.price-plan h3 span {
+.price-plan h2 span {
     font-weight: 600;
     font-size: 16px;
     color: #717fa6;
